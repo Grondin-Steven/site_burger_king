@@ -1,2 +1,3 @@
 # site_burger_king
-site de burger king avec boostrap
+Une réalisation d'une partie du site de burger king avec boostrap
+https://grondin-steven.github.io/site_burger_king/
